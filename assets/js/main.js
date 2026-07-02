@@ -22,11 +22,11 @@ navLinks.querySelectorAll('a').forEach(link => {
 
 /* ========== TYPING EFFECT ========== */
 const roles = [
-  'Machine Learning',
-  'Deep Learning',
-  'Data Science',
-  'Inteligencia Artificial',
-  'MLOps',
+  'Agentes de IA',
+  'Automatización de Procesos',
+  'Ciberseguridad',
+  'Desarrollo Full-Stack',
+  'Low-Code',
 ];
 let roleIdx = 0, charIdx = 0, deleting = false;
 const typingEl = document.getElementById('typingText');
